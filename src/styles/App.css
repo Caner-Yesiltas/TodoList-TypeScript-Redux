@@ -1,24 +1,27 @@
 body {
-  margin-top: 5%;
-  padding: 1rem;
-  width: 100%;
   display: flex;
   flex-direction: column;
   align-items: center;
-  justify-content: center;
+  justify-content: flex-start;
+  background-image: url(../../assets/Interstellar.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  min-height: 100vh;
 }
 
 .todo-create {
-  width: 500px;
+  width: 27.75rem;
   display: flex;
   flex-direction: column;
   align-items: flex-end;
   justify-content: center;
-  margin-top: 20px;
+  margin-top: 200px;
 }
 
 .todo-input {
   width: 99%;
+  height: 1.8rem;
   border: none;
   border-bottom: 1px solid lightgrey;
   outline: none;
@@ -29,10 +32,14 @@ body {
   padding: 5px 10px;
   border-radius: 2px;
   color: black;
-  background-color: gold;
+  background-color: lightslategray;
   font-weight: 700;
   margin-top: 10px;
   cursor: pointer;
+}
+
+.todo-create-button:hover {
+  background-color: rgb(226, 226, 236);
 }
 
 .icons {
