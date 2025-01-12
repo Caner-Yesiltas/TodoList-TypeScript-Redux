@@ -17,18 +17,27 @@ Space Missions Todo List is a modern task management application developed with 
 ### ✨ Key Features
 
 • 🌌 Space-themed interface with Interstellar background
+
 • 📝 Create, edit, and delete missions
+
 • 🔄 Real-time mission status updates
+
 • 💾 State management with Redux
+
 • 📱 Fully responsive design
+
 • 🎯 Mission validation checks
+
 • 🎨 Clean and intuitive user interface
 
 ### 🛠️ Built With
 
 • [React](https://reactjs.org/)
+
 • [TypeScript](https://www.typescriptlang.org/)
+
 • [Redux Toolkit](https://redux-toolkit.js.org/)
+
 • [React Icons](https://react-icons.github.io/react-icons/)
 
 ## 💻 Getting Started
@@ -67,26 +76,41 @@ src/
 ## 🔍 Core Features
 
 ### Mission Management
+
 • Create new space missions
+
 • Edit existing mission details
+
 • Remove completed missions
+
 • Input validation for empty missions
 
 ### State Management
+
 • Centralized Redux store
+
 • Type-safe actions and reducers
+
 • Efficient state updates
 
 ### Styling & Theme
+
 • Space-themed background
+
 • Responsive design for all devices
+
 • Clean and modern UI components
+
 • Interactive hover effects
 
 ## 📱 Responsive Design
+
 • Mobile-first approach
+
 • Flexible layout system
+
 • Adaptive component sizing
+
 • Cross-device compatibility
 
 ## 📝 License
