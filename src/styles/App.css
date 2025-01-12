@@ -46,3 +46,39 @@ body {
   font-size: 22px;
   cursor: pointer;
 }
+
+.todo-edit-input {
+  width: 400px;
+  border: none;
+  border-bottom: 1px solid lightgrey;
+  outline: none;
+}
+
+@media (max-width: 768px) {
+  .todo-edit-input {
+    width: 70% !important;
+    font-size: 0.9rem;
+  }
+}
+
+@media (max-width: 768px) {
+  .todo-create {
+    width: 90%;
+    margin-top: 100px;
+  }
+
+  .todo-input {
+    width: 100%;
+    height: 1.5rem;
+    font-size: 0.9rem;
+  }
+
+  .todo-create-button {
+    padding: 4px 8px;
+    font-size: 0.8rem;
+  }
+
+  .icons {
+    font-size: 18px;
+  }
+}

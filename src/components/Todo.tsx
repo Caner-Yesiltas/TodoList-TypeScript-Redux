@@ -46,6 +46,7 @@ const Todo = ({ todoProps }: TodoProps) => {
       {editable ? (
         <input
           type='text'
+          className="todo-edit-input"
           style={{
             width: '400px',
             border: 'none',
