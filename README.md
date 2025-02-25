@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>🚀 Space Missions Todo List</h1>
+  <h1> Space Missions Todo List 🛰️ </h1>
   
   <h3>
     👉 <a href="https://todo-list-type-script-redux-eta.vercel.app/">Live Demo</a> 👈
@@ -124,5 +124,5 @@ Caner Yesiltas - [caneryesiltas1@gmail.com](mailto:caneryesiltas1@gmail.com)
 Project Link: [https://todo-list-type-script-redux-eta.vercel.app/](https://todo-list-type-script-redux-eta.vercel.app/)
 
 <div align="center">
-  Made with 🚀 by Caner Yesiltas
+  Made with 🛰️  by Caner Yesiltas
 </div>
